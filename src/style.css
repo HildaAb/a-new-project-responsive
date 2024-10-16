@@ -1,0 +1,14 @@
+body {
+  margin-top: 30px;
+  max-width: 800px;
+}
+h1 {
+  background-color: blueviolet;
+  color: whitesmoke;
+  padding: 10px 20px;
+  text-align: center;
+}
+.pages {
+  width: 300px;
+  height: auto;
+}
